@@ -1,2 +1,2 @@
 # reggaeton
-Sentiment and word analysis of reggaeton music lyrics
+Word count and analysis of reggaeton music lyrics
